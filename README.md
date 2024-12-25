@@ -31,7 +31,6 @@ I'm a **mechanical engineer** turned **data enthusiast**, currently pursuing a M
 - Collaborate on projects that intersect **engineering and data analytics**.
 
 ### 📫 Let's Connect:
-- [LinkedIn](your-linkedin-url)
-- [Portfolio Website (if any)](your-website-url)
+- [LinkedIn](www.linkedin.com/in/)
 
 Feel free to explore my repositories and join me in this exciting journey of learning and innovation!
