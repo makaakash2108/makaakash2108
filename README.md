@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm Aakash!
 
 I'm a **mechanical engineer** turned **data enthusiast**, currently pursuing a Master's in Data Analytics at **Indiana Wesleyan University**. My journey combines **3 years of industry experience** in **chemical manufacturing** and entrepreneurship with a passion for **data analytics**.
 
